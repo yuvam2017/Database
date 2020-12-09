@@ -1,5 +1,6 @@
 # Database
 You will be strange by knowing that Python has a module sqlite3 for performing database management.
+Its basic a DATABASE Management System using Python
 Here is one example for it with the GUI based programm 
 # Prequsities:
   # On Windows:
